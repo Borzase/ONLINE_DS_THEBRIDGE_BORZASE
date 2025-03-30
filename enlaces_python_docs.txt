@@ -1,0 +1,17 @@
+
+- Funciones matemáticas
+https://docs.python.org/3/library/math.html
+
+
+-Funciones Built-in
+https://docs.python.org/3/library/functions.html
+
+
+-Metodos para cadenas
+https://docs.python.org/2.5/lib/string-methods.html
+
+
+-Instalar modulos en python
+pypi.org
+
+
