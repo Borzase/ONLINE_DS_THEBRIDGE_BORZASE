@@ -1,0 +1,419 @@
+Id;Especie;Nombre;Raza;Sexo;Edad;Diagnostico 1;Gasto_rehabilitacion;Gasto_tienda;Dieta;Tutor
+1;Canina;Wateke;Mestizo;Macho;7;Acondicionamiento;0.0;0.0;0.0;Mujer
+2;Canina;Cuco;Chihuahua;Macho;19;Artrosis;274.63;0.0;0.0;Mujer
+3;Canina;Emma;Mestizo;Hembra;15;Artrosis;255.0;0.0;0.0;Mujer
+4;Canina;Jalito;Yorkshire Terrier;Macho;12;Luxacion de Rotula;55.0;0.0;0.0;Mujer
+5;Canina;Tote;Yorkshire Terrier;Macho;12;Artrosis;55.0;0.0;0.0;Mujer
+6;Canina;baloo;Mestizo;Macho;12;Artrosis;0.0;774.3199999999999;0.0;Hombre
+7;Canina;Joya;Podenco;Hembra;14;Artrosis;2198.4500000000003;92.5;0.0;Mujer
+8;Canina;Luna;Mestizo;Hembra;13;Acondicionamiento;0.0;0.0;35.0;Hombre
+9;Canina;Leo;Mestizo;Macho;16;Hernia Discal;267.0;120.29999999999998;0.0;Mujer
+10;Canina;Miley;Mestizo;Hembra;16;Artrosis;4672.85;0.0;0.0;Mujer
+11;Canina;Rumy;Chihuahua;Macho;16;Luxacion de Rotula;51.5;0.0;0.0;Mujer
+12;Canina;Sonic;Border Collie;Macho;8;Ligamento Cruzado;1157.22;38.05;0.0;Mujer
+13;Canina;Coco;Mestizo;Macho;16;Mielopatia;1209.8;20.200000000000003;0.0;Hombre
+14;Canina;Ulises;Pastor Alemán;Macho;12;Displasia Cadera;882.35;0.0;0.0;Mujer
+15;Felina;Noa;Común Europeo;Hembra;3;Hernia Discal;259.0;0.0;0.0;Asociacion
+16;Canina;Lia;Border Collie;Hembra;8;Hernia Discal;1355.0;18.2;0.0;Hombre
+17;Felina;Cahuita;Común Europeo;Hembra;4;Artrosis;165.0;0.0;0.0;Mujer
+18;Canina;Adya;Pastor Alemán;Macho;15;Artrosis;1964.0;0.0;0.0;Mujer
+19;Canina;Charlie;Poodle;Macho;5;Hernia Discal;511.25;0.0;0.0;Mujer
+20;Felina;Ella;Común Europeo;Hembra;13;Acondicionamiento;488.0;0.0;0.0;Mujer
+21;Canina;Neska;Pastor Catalán;Hembra;18;Hernia Discal;642.4;34.2;0.0;Mujer
+22;Canina;Jana;West Highland Terrier;Hembra;17;Ligamento Cruzado;301.0;23.25;0.0;Mujer
+23;Canina;Valpo;Teckel;Macho;7;Hernia Discal;1355.0;5.0;0.0;Mujer
+24;Canina;Bombo;Mestizo;Macho;9;Artrosis;100.0;8.5;0.0;Hombre
+25;Canina;Blacky;Schnauzer;Macho;14;Artrosis;2944.0;0.0;0.0;Mujer
+26;Canina;Ody;Teckel;Macho;11;Hernia Discal;135.0;0.0;0.0;Mujer
+27;Canina;Chulo;Boxer;Macho;13;Mielopatia;475.5;0.0;0.0;Hombre
+28;Canina;Bruce;Braco de Weimar;Macho;11;Artrosis;285.0;0.0;0.0;Hombre
+29;Canina;Isil;Mestizo;Hembra;3;NAC;405.0;15.6;0.0;Mujer
+30;Canina;Joker;Boston Terrier;Macho;11;Artrosis;304.0;4.0;0.0;Hombre
+31;Canina;Siri;Boston Terrier;Hembra;12;Luxacion de Rotula;180.0;0.0;0.0;Hombre
+32;Canina;Joey;Mestizo;Macho;9;Mielopatia;255.0;8.9;0.0;Hombre
+33;Canina;Jordan;Jack Russell;Macho;12;Displasia Codo;729.0;0.0;0.0;Mujer
+34;Canina;Bella;Bulldog Francés;Hembra;6;Hernia Discal;752.35;0.0;0.0;Mujer
+35;Felina;Sais;Persa;Macho;16;Hernia Discal;779.0;0.0;0.0;Hombre
+36;Canina;Paul;Bulldog Francés;Macho;5;Luxacion de Rotula;205.0;0.0;0.0;Mujer
+37;Canina;Timmy;Mastín Español;Macho;14;Artrosis;1229.0;0.0;0.0;Mujer
+38;Canina;Grecia;Mestizo;Hembra;12;Mielopatia;90.0;4.0;0.0;Hombre
+39;Canina;Kira;Dálmata;Hembra;17;Mielopatia;55.0;0.0;0.0;Hombre
+40;Canina;Skal;Pastor Alemán;Macho;7;Mielopatia;70.0;0.0;0.0;Mujer
+41;Canina;Daina;Golden Retriever;Hembra;3;Displasia Cadera;755.0;0.0;0.0;Hombre
+42;Canina;Rocco;Mestizo;Macho;18;Artrosis;264.22;138.86;0.0;Hombre
+43;Canina;Momo;Border Collie;Hembra;11;Ligamento Cruzado;90.0;4.0;0.0;Hombre
+44;Canina;Leo;Mestizo;Macho;8;Luxacion de Rotula;55.0;0.0;0.0;Hombre
+45;Canina;Gunnar;Pastor Belga;Macho;12;Artrosis;2375.0;0.0;0.0;Mujer
+46;Canina;Diablo;Bulldog Francés;Macho;6;Hernia Discal;752.35;0.0;0.0;Mujer
+47;Felina;Moon;Común Europeo;Hembra;6;Acondicionamiento;420.0;6.6;0.0;Mujer
+48;Canina;Cody;Pastor ganadero australiano;Macho;3;Displasia Cadera;235.0;0.0;0.0;Hombre
+49;Canina;Odie;Teckel;Macho;9;Hernia Discal;346.0;0.0;0.0;Mujer
+50;Canina;Coco;Mestizo;Macho;10;Displasia Codo;260.0;0.0;0.0;Mujer
+51;Canina;Shirka;Mestizo;Hembra;13;Artrosis;379.0;0.0;0.0;Mujer
+52;Canina;Evo;Teckel;Macho;10;Hernia Discal;821.5;20.700000000000003;0.0;Hombre
+53;Canina;Luke;Mestizo;Macho;7;Displasia Cadera;2040.0;0.0;0.0;Hombre
+54;Canina;Alaska;Pastor Catalán;Hembra;12;Hernia Discal;2385.0;4.0;0.0;Mujer
+55;Canina;Pipa;Mestizo;Hembra;13;Hernia Discal;288.95;0.0;0.0;Mujer
+56;Canina;Buddy;Teckel;Macho;6;Hernia Discal;187.0;0.0;0.0;Mujer
+57;Canina;Maya;Pastor Alemán;Hembra;6;Displasia Cadera;585.0;0.0;0.0;Mujer
+58;Canina;Noa;West Highland Terrier;Hembra;13;Luxacion de Rotula;413.0;12.0;0.0;Mujer
+59;Felina;Lenon;Común Europeo;Macho;10;Acondicionamiento;35.0;0.0;0.0;Mujer
+60;Canina;Roma;Pastor Alemán;Hembra;3;Displasia Cadera;70.0;0.0;0.0;Hombre
+61;Canina;Sena;Labrador Retriever;Hembra;13;Ligamento Cruzado;295.0;49.9;0.0;Mujer
+62;Canina;Coco;Mestizo;Macho;14;Artrosis;470.4;17.85;0.0;Mujer
+63;Felina;Gata;Común Europeo;Hembra;11;Acondicionamiento;31.5;17.25;0.0;Mujer
+64;Canina;Cora;American Staffordshire Terrier;Hembra;9;Ligamento Cruzado;675.0;0.0;0.0;Mujer
+65;Canina;Faustino;Setter Gordon;Macho;10;Acondicionamiento;30.0;0.0;0.0;Mujer
+66;Canina;Max;Labrador Retriever;Macho;6;Ligamento Cruzado;1809.22;93.33;0.0;Mujer
+67;Canina;Dina;American Staffordshire Terrier;Hembra;6;Ligamento Cruzado;580.4;0.0;0.0;Mujer
+68;Canina;Piper;Bulldog Francés;Macho;7;Hernia Discal;205.0;0.0;0.0;Mujer
+69;Canina;Kobu;Chihuahua;Macho;12;Artrosis;785.0;0.0;0.0;Mujer
+70;Canina;Bombón;Chow Chow;Hembra;13;Displasia Codo;0.0;6.0;0.0;Hombre
+71;Canina;Maya;Chihuahua;Hembra;5;Hernia Discal;265.0;0.0;0.0;Mujer
+72;Canina;Duna;Mestizo;Hembra;12;Artrosis;182.4;0.0;0.0;Hombre
+73;Canina;Henna;Border Collie;Hembra;6;Acondicionamiento;60.0;0.0;0.0;Hombre
+74;Canina;Senda;Teckel;Hembra;4;Hernia Discal;320.7;19.7;0.0;Mujer
+75;Felina;Dora;Persa;Hembra;12;Hernia Discal;300.0;5.0;0.0;Mujer
+76;Canina;Norman;Pastor Ovejero Australiano;Macho;10;Displasia Cadera;540.0;0.0;0.0;Mujer
+77;Canina;Mario;Jack Russell;Macho;14;Ligamento Cruzado;1183.98;0.0;0.0;Mujer
+78;Canina;Norte;Mestizo;Macho;8;Artrosis;595.6;25.5;0.0;Mujer
+79;Canina;Bimba;Pomerania;Hembra;11;Luxacion de Rotula;150.0;0.0;0.0;Mujer
+80;Canina;Brando;Alaskan Malamute;Macho;15;Artrosis;70.0;0.0;0.0;Mujer
+81;Canina;Maya;Pastor Australiano;Hembra;14;Artrosis;690.0;0.0;0.0;Mujer
+82;Canina;Jack;Teckel;Macho;7;Hernia Discal;1350.0;25.8;0.0;Mujer
+83;Canina;Elsa;Mestizo;Hembra;15;Artrosis;202.45;12.0;0.0;Mujer
+84;Canina;Tysson;Mestizo;Macho;15;Hernia Discal;697.1400000000001;0.0;0.0;Hombre
+85;Canina;Baloo;Mestizo;Macho;11;Mielopatia;210.0;0.0;0.0;Mujer
+86;Canina;Movie;Border Collie;Hembra;4;Acondicionamiento;240.0;0.0;0.0;Mujer
+87;Canina;Trufa;Labrador Retriever;Hembra;16;Displasia Cadera;3901.0;0.0;0.0;Mujer
+88;Canina;Kika;Mestizo;Hembra;17;Artrosis;862.24;38.6;0.0;Mujer
+89;Canina;Aika;Rottweiler;Hembra;5;Artrosis;60.0;0.0;0.0;Hombre
+90;Canina;Neil;Caniche;Hembra;3;Luxacion de Rotula;70.0;0.0;0.0;Hombre
+91;Canina;Lucky;Mestizo;Macho;10;Ligamento Cruzado;648.0;0.0;0.0;Hombre
+92;Canina;Nora;Mestizo;Hembra;15;Mielopatia;34.8;0.0;0.0;Mujer
+93;Canina;Sheena;Podenco;Hembra;14;Artrosis;190.0;7.5;0.0;Mujer
+94;Canina;Talis;Mestizo;Hembra;10;Hernia Discal;430.0;0.0;0.0;Mujer
+95;Canina;Veva;Mestizo;Hembra;11;Artrosis;480.0;0.0;0.0;Mujer
+96;Canina;Luna;Bichón;Hembra;8;Hernia Discal;310.0;0.0;0.0;Mujer
+97;Canina;Margot;Braco Alemán;Hembra;12;Ligamento Cruzado;589.98;0.0;0.0;Hombre
+98;Canina;Ako;Mestizo;Hembra;10;Hernia Discal;944.0;0.0;0.0;Mujer
+99;Canina;Nero;Mestizo;Macho;16;Artrosis;520.0;4.4;0.0;Mujer
+100;Canina;Lira;Pomerania;Hembra;3;Luxacion de Rotula;70.0;0.0;0.0;Mujer
+101;Canina;Roco;Bichón;Macho;14;Hernia Discal;520.0;5.0;0.0;Mujer
+102;Felina;Kiwi;Azul Ruso;Hembra;4;Acondicionamiento;520.0;0.0;0.0;Mujer
+103;Canina;Pepe;Mestizo;Macho;7;Ligamento Cruzado;300.0;0.0;0.0;Mujer
+104;Canina;Sai;Border Collie;Macho;5;Acondicionamiento;48.7;0.0;0.0;Hombre
+105;Canina;Ochi;Mestizo;Macho;13;Hernia Discal;550.0;0.0;0.0;Mujer
+106;Canina;Samba;Mestizo;Hembra;13;Artrosis;120.0;0.0;0.0;Hombre
+107;Canina;Garbí;Pastor Australiano;Hembra;2;Acondicionamiento;210.0;0.0;0.0;Hombre
+108;Canina;Nala;Bichón;Hembra;11;Hernia Discal;220.0;0.0;0.0;Mujer
+109;Canina;Zarra;Pastor Alemán;Hembra;11;Hernia Discal;870.0;0.0;0.0;Mujer
+110;Canina;Sira;Border Collie;Hembra;4;Displasia Codo;70.0;0.0;0.0;Mujer
+111;Canina;Simón;Alaskan Malamute;Macho;14;Artrosis;2248.0;0.0;0.0;Mujer
+112;Canina;Olivia;Mestizo;Hembra;7;Hernia Discal;225.0;0.0;0.0;Mujer
+113;Canina;Maik;Mestizo;Macho;10;Ligamento Cruzado;250.0;4.0;0.0;Mujer
+114;Canina;Mogwai;Bichón;Hembra;14;Luxacion de Rotula;282.8;44.9;0.0;Mujer
+115;Canina;Dana;Mestizo;Hembra;6;Mielopatia;70.0;0.0;0.0;Mujer
+116;Canina;Floki;Galgo;Macho;7;Hernia Discal;220.0;0.0;0.0;Mujer
+117;Canina;Banifacy;Chihuahua;Macho;12;Luxacion de Rotula;375.0;0.0;0.0;Mujer
+118;Canina;Luna;Pastor Alemán;Hembra;14;Artrosis;941.0;0.0;0.0;Mujer
+119;Canina;Neu;Mestizo;Hembra;9;Acondicionamiento;380.0;49.3;0.0;Mujer
+121;Canina;Zoe;Ratonero;Hembra;20;Artrosis;342.99;0.0;0.0;Mujer
+122;Canina;Kairi;Mestizo;Hembra;5;Ligamento Cruzado;315.0;0.0;0.0;Mujer
+123;Canina;Ralph;Podenco;Macho;17;Artrosis;600.0;16.0;0.0;Mujer
+124;Canina;Titán;Terranova;Macho;13;Artrosis;2727.0;2256.73;0.0;Hombre
+125;Canina;Cloe;Pastor Belga;Hembra;7;Acondicionamiento;86.58;0.0;0.0;Hombre
+127;Canina;Mona;Mestizo;Hembra;10;Hernia Discal;1290.0;39.58;0.0;Mujer
+128;Canina;Bender;Labrador Retriever;Macho;12;Artrosis;3342.3999999999996;0.0;0.0;Hombre
+129;Canina;Axel Rose;Teckel;Macho;6;Hernia Discal;1220.35;16.08;0.0;Hombre
+130;Canina;Frida;Jack Russell;Hembra;7;Hernia Discal;1020.0;7.3;0.0;Mujer
+131;Canina;Choco;Mestizo;Macho;13;Ligamento Cruzado;70.0;0.0;0.0;Mujer
+132;Canina;Coco Channel;Bichón;Hembra;8;Mielopatia;60.0;0.0;0.0;Mujer
+133;Canina;Ralph;Galgo;Macho;12;Acondicionamiento;345.0;0.0;0.0;Mujer
+134;Canina;Tyrion;Yorkshire Terrier;Macho;11;Hernia Discal;115.0;0.0;0.0;Mujer
+135;Canina;Luna;Mestizo;Hembra;5;Hernia Discal;1740.1;44.0;0.0;Mujer
+136;Canina;Heda;Galgo;Hembra;4;Luxacion de Rotula;120.0;0.0;0.0;Mujer
+137;Canina;Rocky;Labrador Retriever;Macho;6;Mielopatia;90.0;14.5;0.0;Mujer
+138;Canina;Waldi;Mestizo;Macho;16;Hernia Discal;1610.96;457.78800000000007;0.0;Mujer
+139;Canina;Otto;Teckel;Macho;15;Artrosis;1012.0;45.3;0.0;Mujer
+140;Canina;Molly;Teckel;Hembra;15;Hernia Discal;684.95;24.95;0.0;Mujer
+141;Canina;Rock;Carlino;Macho;12;Hernia Discal;370.0;0.0;0.0;Mujer
+142;Canina;Trasto;Mestizo;Macho;11;Hernia Discal;150.0;0.0;0.0;Hombre
+143;Canina;Murph;Mestizo;Hembra;3;Acondicionamiento;60.0;0.0;0.0;Hombre
+144;Canina;Eva;Chihuahua;Hembra;10;Hernia Discal;70.0;0.0;0.0;Mujer
+145;Canina;Shiva;Mestizo;Hembra;11;Mielopatia;60.0;0.0;0.0;Mujer
+146;Canina;Athos;Mestizo;Macho;12;Hernia Discal;550.0;0.0;0.0;Mujer
+147;Canina;Cendra;Mestizo;Hembra;2;Displasia Codo;1075.0;3.3;0.0;Hombre
+148;Canina;Natsu;Pomerania;Macho;6;Mielopatia;415.0;0.0;0.0;Hombre
+149;Canina;Mars;Doberman;Macho;9;Mielopatia;1420.0;4.95;0.0;Hombre
+150;Canina;Bola;Labrador Retriever;Macho;10;Displasia Codo;699.22;0.0;0.0;Mujer
+151;Canina;Bella;Bulldog Francés;Hembra;2;Hernia Discal;70.0;0.0;0.0;Mujer
+152;Canina;Drako;Boxer;Macho;10;Ligamento Cruzado;520.0;0.0;0.0;Hombre
+153;Canina;Schott;Golden Retriever;Macho;12;Displasia Cadera;288.0;0.0;0.0;Mujer
+154;Canina;Morgana;Perro de agua;Hembra;2;NAC;597.4;0.0;0.0;Mujer
+155;Canina;Bax;Carlino;Macho;15;Hernia Discal;30.0;0.0;0.0;Hombre
+156;Canina;Apolo;Bulldog Francés;Macho;6;Hernia Discal;300.0;4.25;0.0;Mujer
+157;Canina;Chupa Chups;Pastor Alemán;Macho;5;Acondicionamiento;40.0;0.0;0.0;Mujer
+158;Canina;Shiba;Podenco;Hembra;13;Mielopatia;2237.35;0.0;0.0;Mujer
+159;Canina;Nott ;Pastor Alemán;Macho;5;Acondicionamiento;74.22;0.0;0.0;Hombre
+160;Canina;Kush;Pastor Alemán;Macho;6;Displasia Cadera;544.87;4.5;0.0;Mujer
+161;Canina;Sugus;Labrador Retriever;Macho;2;Acondicionamiento;70.0;0.0;0.0;Mujer
+162;Canina;Minush;Alaskan Malamute;Hembra;13;Acondicionamiento;90.0;0.0;0.0;Mujer
+163;Canina;Berta;Podenco;Hembra;3;NAC;600.0;0.0;0.0;Mujer
+164;Canina;Neus;Mestizo;Hembra;14;Hernia Discal;70.0;0.0;0.0;Mujer
+165;Canina;Malibú;Pastor Belga;Hembra;4;Acondicionamiento;40.0;0.0;0.0;Mujer
+166;Canina;Saul;Mestizo;Macho;10;Displasia Cadera;209.22;0.0;0.0;Mujer
+167;Canina;Luna;Mestizo;Hembra;11;Displasia Cadera;340.0;0.0;0.0;Hombre
+168;Canina;Mateo;Shihtzu;Macho;19;Mielopatia;70.0;0.0;0.0;Mujer
+169;Canina;Loli;Mestizo;Hembra;6;Ligamento Cruzado;295.0;6.5;0.0;Mujer
+170;Canina;Darko;Spaniel Breton;Macho;10;Displasia Cadera;1015.0;0.0;0.0;Mujer
+171;Canina;Gordo;Pit Bull Terrier;Macho;9;Displasia Codo;160.0;0.0;0.0;Mujer
+172;Canina;Siena;Caniche;Hembra;2;Luxacion de Rotula;220.0;0.0;0.0;Hombre
+173;Canina;Pulpo;Akita Americano;Macho;2;Hernia Discal;160.0;0.0;0.0;Mujer
+174;Canina;Mentxu;Mestizo;Hembra;8;Artrosis;70.0;0.0;0.0;Hombre
+175;Canina;Vega;Braco de Weimar;Hembra;10;Hernia Discal;370.0;0.0;0.0;Hombre
+176;Canina;Maya;Labrador Retriever;Hembra;10;Hernia Discal;420.0;0.0;0.0;Mujer
+177;Canina;Queen;Pit Bull Terrier;Hembra;8;Displasia Cadera;70.0;0.0;0.0;Mujer
+178;Canina;India;Yorkshire Terrier;Hembra;5;NAC;230.0;0.0;0.0;Hombre
+179;Canina;Gypsy;Mestizo;Macho;14;Ligamento Cruzado;820.0;0.0;0.0;Mujer
+180;Canina;Lola;Chihuahua;Hembra;3;Luxacion de Rotula;130.0;0.0;0.0;Mujer
+181;Canina;Thor;Chow Chow;Macho;2;Displasia Cadera;150.0;0.0;0.0;Hombre
+182;Canina;Mia;Pit Bull Terrier;Hembra;2;Ligamento Cruzado;70.0;0.0;0.0;Hombre
+183;Canina;Mia;Mestizo;Hembra;4;Displasia Cadera;987.5;20.7;0.0;Mujer
+184;Canina;Dotor;Braco Alemán;Macho;18;Mielopatia;1023.9999999999999;0.0;0.0;Mujer
+185;Canina;Yago;Mestizo;Macho;13;Hernia Discal;70.0;0.0;0.0;Mujer
+186;Canina;Mono;Mestizo;Macho;15;Mielopatia;70.0;0.0;0.0;Hombre
+187;Canina;Vida;Yorkshire Terrier;Hembra;14;Hernia Discal;70.0;0.0;0.0;Mujer
+188;Canina;Kalimocha;Cocker Spaniel;Hembra;4;Acondicionamiento;40.0;0.0;0.0;Mujer
+189;Canina;Newton;Mestizo;Hembra;1;Acondicionamiento;40.0;0.0;0.0;Mujer
+190;Canina;Lucas;Pinscher;Macho;15;Hernia Discal;130.0;0.0;0.0;Mujer
+191;Canina;Caña;Mestizo;Hembra;9;Acondicionamiento;360.0;0.0;0.0;Hombre
+192;Canina;India;Border Collie;Hembra;1;Acondicionamiento;70.0;0.0;0.0;Mujer
+193;Canina;Bobby;Pastor Belga;Macho;4;Acondicionamiento;70.0;0.0;0.0;Mujer
+194;Canina;Cooper;Golden Retriever;Macho;14;Hernia Discal;70.0;0.0;0.0;Mujer
+195;Canina;Coco;Bichón;Macho;7;Artrosis;30.0;0.0;0.0;Mujer
+196;Canina;Drake;Border Collie;Macho;8;Acondicionamiento;70.0;0.0;0.0;Mujer
+197;Canina;Mia;Chihuahua;Hembra;8;Hernia Discal;570.0;0.0;0.0;Hombre
+198;Canina;Hugo;Beagle;Macho;10;Ligamento Cruzado;295.0;0.0;0.0;Mujer
+199;Canina;Rocky;Perro de agua;Macho;7;Acondicionamiento;200.0;0.0;0.0;Hombre
+200;Canina;Ecko;Mestizo;Macho;8;Hernia Discal;970.0;0.0;0.0;Mujer
+201;Canina;Draco;Mestizo;Macho;15;Artrosis;370.0;0.0;0.0;Mujer
+202;Canina;Maño;Mestizo;Macho;14;Mielopatia;940.0;0.0;0.0;Mujer
+203;Canina;Coco;Bichón;Macho;15;Hernia Discal;775.0;0.0;0.0;Mujer
+204;Canina;Boira;Border Collie;Hembra;7;Ligamento Cruzado;100.0;0.0;0.0;Mujer
+205;Canina;Samba;Mestizo;Hembra;10;Hernia Discal;570.0;0.0;0.0;Mujer
+206;Canina;Nala;Bulldog Francés;Hembra;10;Hernia Discal;220.0;0.0;0.0;Mujer
+207;Canina;Bruma;Mestizo;Hembra;7;Ligamento Cruzado;370.0;0.0;0.0;Hombre
+208;Canina;Trufa;Mestizo;Hembra;3;Luxacion de Rotula;300.0;0.0;0.0;Hombre
+209;Canina;Shiva;Pastor Alemán;Hembra;5;Displasia Cadera;50.0;0.0;0.0;Mujer
+210;Canina;Kira;Labrador Retriever;Hembra;9;Ligamento Cruzado;70.0;0.0;0.0;Mujer
+211;Canina;Django;Mestizo;Macho;8;Mielopatia;149.8;0.0;0.0;Mujer
+212;Canina;Toby;Mestizo;Macho;14;Artrosis;1210.0;9.4;0.0;Mujer
+213;Canina;Goa;Labrador Retriever;Hembra;15;Hernia Discal;130.0;4.0;0.0;Mujer
+214;Canina;Black;Labrador Retriever;Macho;7;Hernia Discal;1989.3999999999999;0.0;0.0;Hombre
+215;Canina;Papush;Mestizo;Macho;8;NAC;370.0;0.0;0.0;Mujer
+216;Canina;Charas;Pit Bull Terrier;Hembra;14;Artrosis;340.0;0.0;0.0;Mujer
+217;Canina;Lolo;Mestizo;Macho;11;Ligamento Cruzado;70.0;4.0;0.0;Mujer
+218;Canina;Kira;Ratonero;Hembra;11;Ligamento Cruzado;370.0;0.0;0.0;Mujer
+219;Canina;Antia Coliflor;Mestizo;Hembra;6;Acondicionamiento;520.0;0.0;0.0;Mujer
+220;Canina;Rob;Mestizo;Macho;8;NAC;370.0;0.0;0.0;Hombre
+221;Canina;Kuma;Mestizo;Hembra;16;Mielopatia;70.0;0.0;0.0;Hombre
+222;Canina;Capitan;Pastor Belga;Macho;3;Acondicionamiento;115.0;0.0;0.0;Hombre
+223;Canina;Dexter;Golden Retriever;Macho;10;Artrosis;180.0;0.0;0.0;Hombre
+224;Canina;Lucas;Mestizo;Macho;11;Hernia Discal;370.0;0.0;0.0;Mujer
+225;Canina;Nicki;Yorkshire Terrier;Macho;8;Mielopatia;70.0;0.0;0.0;Mujer
+226;Canina;Bruno;Shihtzu;Macho;11;Hernia Discal;370.0;0.0;0.0;Mujer
+227;Canina;Frida;Podenco;Hembra;2;NAC;772.2;0.0;0.0;Mujer
+228;Canina;Peky;Mestizo;Hembra;7;Mielopatia;220.0;0.0;0.0;Hombre
+229;Canina;Jack;Mestizo;Macho;8;Hernia Discal;295.0;0.0;0.0;Hombre
+230;Canina;Liko;Setter Irlandés;Macho;8;Displasia Cadera;670.0;0.0;0.0;Mujer
+231;Canina;Janis;Podenco;Hembra;16;Artrosis;710.0;496.8;0.0;Mujer
+232;Canina;Kira;Chihuahua;Hembra;10;Hernia Discal;295.0;0.0;0.0;Hombre
+233;Canina;Django;Teckel;Macho;5;Hernia Discal;520.0;0.0;0.0;Mujer
+234;Canina;City;Border Collie;Hembra;1;Acondicionamiento;0.0;8.0;0.0;Mujer
+235;Canina;Cupra;Border Collie;Hembra;1;Acondicionamiento;70.0;0.0;0.0;Mujer
+236;Canina;Eros;Dálmata;Macho;11;Acondicionamiento;90.0;0.0;0.0;Mujer
+237;Canina;Cloe;Mestizo;Hembra;7;Acondicionamiento;120.0;0.0;0.0;Mujer
+238;Canina;Vilma;Mestizo;Hembra;10;Ligamento Cruzado;430.0;0.0;0.0;Mujer
+239;Canina;Leo;Jack Russell;Macho;4;Displasia Codo;781.0;0.0;0.0;Hombre
+240;Canina;Blu;Border Collie;Macho;2;NAC;540.0;13.25;0.0;Hombre
+241;Canina;Noa;Yorkshire Terrier;Hembra;17;Ligamento Cruzado;60.0;0.0;0.0;Hombre
+242;Canina;Byron;Setter Inglés;Macho;14;Mielopatia;830.8;37.5;0.0;Hombre
+243;Canina;Odin;Border Collie;Macho;12;Acondicionamiento;520.0;0.0;0.0;Hombre
+244;Canina;Bruno;Chihuahua;Macho;12;Hernia Discal;520.0;0.0;0.0;Mujer
+245;Canina;Thor;Teckel;Macho;2;Displasia Codo;70.0;0.0;0.0;Mujer
+246;Canina;Pepi;Shetland Sheepdog;Hembra;4;Acondicionamiento;70.0;0.0;0.0;Hombre
+247;Canina;Kira;Beagle;Hembra;11;Acondicionamiento;40.0;0.0;0.0;Mujer
+248;Canina;Norte;Mestizo;Macho;7;Displasia Cadera;190.0;0.0;0.0;Hombre
+249;Canina;Summer;Labrador Retriever;Hembra;8;Displasia Codo;370.0;0.0;0.0;Mujer
+250;Canina;Doce;Pastor Australiano;Macho;11;Mielopatia;180.0;0.0;0.0;Mujer
+251;Canina;Nikka;Cavalier King Charles;Hembra;12;Artrosis;1420.0;7.3;0.0;Mujer
+252;Canina;Julieta;Mestizo;Hembra;3;Artrosis;70.0;0.0;0.0;Mujer
+253;Canina;Doy;Bulldog Francés;Macho;8;Hernia Discal;90.0;0.0;0.0;Mujer
+254;Canina;Kairos;Pastor Alemán;Macho;5;Displasia Cadera;70.0;0.0;0.0;Hombre
+255;Canina;Jager;Pit Bull Terrier;Macho;8;Ligamento Cruzado;360.0;0.0;0.0;Mujer
+256;Canina;Lucy;Mestizo;Hembra;14;Mielopatia;730.0;4.4;0.0;Mujer
+257;Canina;Nila;Mestizo;Hembra;12;Ligamento Cruzado;520.0;0.0;0.0;Mujer
+258;Felina;Ron;Común Europeo;Macho;1;Mielopatia;295.0;0.0;0.0;Mujer
+259;Canina;Best;Mestizo;Macho;10;Hernia Discal;580.0;16.3;0.0;Mujer
+260;Canina;India;Mestizo;Hembra;5;Ligamento Cruzado;70.0;0.0;0.0;Mujer
+261;Canina;Puppy;Mestizo;Hembra;5;Hernia Discal;145.0;6.6;0.0;Mujer
+262;Canina;Cali;American Bully;Hembra;5;Artrosis;699.9;0.0;0.0;Mujer
+263;Canina;Arya;American Staffordshire Terrier;Hembra;9;Hernia Discal;1197.35;5.0;0.0;Mujer
+264;Canina;Aker;Boyero de Berna;Macho;7;Hernia Discal;1497.35;0.0;0.0;Mujer
+265;Canina;Dólar;Mestizo;Macho;12;Ligamento Cruzado;700.0;0.0;0.0;Hombre
+266;Canina;Junior;Labrador Retriever;Macho;13;Artrosis;370.0;0.0;0.0;Hombre
+267;Canina;Puzzle;Pit Bull Terrier;Macho;9;Artrosis;360.0;0.0;0.0;Mujer
+268;Canina;Maggie;Teckel;Hembra;6;Hernia Discal;415.0;0.0;0.0;Mujer
+269;Canina;Tizon;Bulldog Francés;Macho;11;Hernia Discal;40.0;0.0;0.0;Hombre
+270;Canina;Teabag;Bulldog Francés;Macho;9;Hernia Discal;745.0;0.0;0.0;Mujer
+271;Canina;Aria;Mestizo;Hembra;13;Mielopatia;70.0;63.81999999999999;80.0;Mujer
+272;Canina;Nicolas;Mestizo;Macho;15;Ligamento Cruzado;295.0;0.0;0.0;Mujer
+273;Canina;Lucy;Pekinés;Hembra;8;Hernia Discal;400.0;0.0;0.0;Mujer
+274;Canina;Carlo;Carlino;Macho;13;Artrosis;70.0;12.0;0.0;Mujer
+275;Canina;Ache;Mestizo;Macho;7;Ligamento Cruzado;415.0;0.0;0.0;Mujer
+276;Canina;Noa;Ratonero;Macho;6;Luxacion de Rotula;627.2;28.85;0.0;Mujer
+277;Canina;Arya;Bichón;Hembra;4;Acondicionamiento;370.0;0.0;0.0;Mujer
+278;Canina;Canela;Carlino;Hembra;7;Hernia Discal;430.0;0.0;0.0;Mujer
+279;Canina;Blues;Golden Retriever;Macho;12;Ligamento Cruzado;370.0;0.0;0.0;Mujer
+280;Canina;Aika;Mestizo;Hembra;12;Artrosis;729.0;0.0;0.0;Mujer
+281;Canina;Pipo;Golden Retriever;Macho;14;Displasia Codo;79.0;0.0;0.0;Mujer
+282;Canina;Bong;Mestizo;Macho;14;Hernia Discal;970.0;15.2;30.0;Mujer
+283;Canina;Noa;Mestizo;Hembra;14;Artrosis;60.0;0.0;0.0;Mujer
+284;Canina;Pompa ;Teckel;Hembra;6;Hernia Discal;445.0;0.0;0.0;Mujer
+285;Canina;Travel;Cocker Spaniel;Macho;8;Luxacion de Rotula;880.0;6.6;0.0;Mujer
+286;Canina;Stark;Perro de agua;Hembra;4;Artrosis;70.0;0.0;0.0;Mujer
+287;Canina;Tarzan;Podenco;Hembra;8;Acondicionamiento;80.0;0.0;0.0;Mujer
+288;Canina;Ulises;Yorkshire Terrier;Macho;7;Acondicionamiento;70.0;0.0;0.0;Mujer
+289;Canina;Fusa;Podenco;Hembra;15;Artrosis;724.5;21.6;0.0;Mujer
+290;Canina;Bruce;Mestizo;Macho;14;Artrosis;955.0;0.0;0.0;Mujer
+291;Canina;Bongo;Mestizo;Macho;12;Ligamento Cruzado;758.4;0.0;0.0;Mujer
+292;Canina;Balto;Border Collie;Macho;6;Ligamento Cruzado;70.0;0.0;0.0;Mujer
+293;Canina;Dom;Doberman;Macho;8;Hernia Discal;600.0;0.0;0.0;Mujer
+294;Canina;Kira;Mestizo;Hembra;9;Displasia Codo;160.0;0.0;0.0;Mujer
+295;Canina;Lúa;Pastor Alemán;Hembra;1;Acondicionamiento;160.0;0.0;0.0;Hombre
+296;Canina;Greta;Teckel;Hembra;5;Hernia Discal;445.0;0.0;0.0;Mujer
+297;Canina;Canela;Bulldog Inglés;Hembra;1;Luxacion de Rotula;70.0;0.0;0.0;Mujer
+298;Canina;Cuba;Carlino;Hembra;12;Mielopatia;735.0;0.0;0.0;Hombre
+299;Canina;Drago;Mastín Español;Macho;11;Displasia Cadera;70.0;0.0;0.0;Mujer
+300;Felina;Baloo;Común Europeo;Macho;10;Hernia Discal;115.0;0.0;0.0;Mujer
+301;Canina;Berto;Bulldog Francés;Macho;1;Acondicionamiento;70.0;0.0;0.0;Hombre
+302;Canina;Tica;Spaniel Breton;Hembra;7;NAC;460.0;0.0;0.0;Hombre
+303;Canina;Chelsea;Bichón;Hembra;13;Hernia Discal;70.0;0.0;0.0;Mujer
+304;Canina;Dumbo;Bichón;Macho;7;Hernia Discal;820.0;145.0;0.0;Mujer
+305;Canina;Lennon;Labrador Retriever;Macho;13;Artrosis;250.0;0.0;0.0;Hombre
+306;Canina;Boby;Mestizo;Macho;9;Ligamento Cruzado;270.0;41.8;0.0;Mujer
+307;Canina;Pistacho;Teckel;Macho;5;Hernia Discal;550.0;7.0;0.0;Mujer
+308;Canina;Django;Mestizo;Macho;2;Displasia Codo;225.0;9.6;0.0;Mujer
+309;Canina;Thor;Bulldog Francés;Macho;5;Hernia Discal;295.0;0.0;0.0;Hombre
+310;Canina;Nero;Rottweiler;Macho;10;Displasia Cadera;130.0;0.0;0.0;Hombre
+311;Canina;Max;Schnauzer;Macho;12;Ligamento Cruzado;370.0;0.0;0.0;Mujer
+312;Canina;Musa;Podenco;Hembra;9;Mielopatia;70.0;0.0;0.0;Mujer
+313;Canina;Dana;Yorkshire Terrier;Hembra;8;Hernia Discal;255.0;0.0;0.0;Mujer
+314;Canina;Tana;Podenco;Hembra;3;Hernia Discal;300.0;0.0;0.0;Hombre
+315;Canina;Bowie;Mestizo;Macho;12;Acondicionamiento;70.0;0.0;0.0;Mujer
+316;Canina;Tobias;Bulldog Francés;Macho;14;Hernia Discal;300.0;2.5;0.0;Mujer
+317;Canina;Pele;Labrador Retriever;Macho;6;Mielopatia;70.0;0.0;0.0;Hombre
+318;Canina;Marco Polo;Bulldog Francés;Macho;5;Hernia Discal;790.0;20.08;0.0;Hombre
+319;Canina;Rio;Mestizo;Macho;3;Displasia Cadera;70.0;0.0;0.0;Mujer
+320;Canina;Wurst;Teckel;Macho;8;Hernia Discal;750.0;14.0;0.0;Mujer
+321;Canina;Kanu;Mestizo;Macho;11;Artrosis;60.0;0.0;0.0;Mujer
+322;Canina;Chispas;Teckel;Hembra;5;Hernia Discal;565.0;2.0;0.0;Mujer
+323;Canina;Luna;Mestizo;Hembra;3;Hernia Discal;895.0;0.0;0.0;Mujer
+324;Canina;Redi;Pastor Australiano;Macho;10;Artrosis;430.0;29.5;0.0;Mujer
+325;Canina;Aquiles;Border Collie;Macho;1;Artrosis;370.0;0.0;0.0;Mujer
+326;Canina;Moon;Setter Irlandés;Macho;1;NAC;340.0;0.0;0.0;Hombre
+327;Felina;Kurama;Común Europeo;Macho;3;NAC;220.0;3.3;0.0;Mujer
+328;Canina;Ñita;Labrador Retriever;Hembra;11;Displasia Cadera;235.0;0.0;0.0;Mujer
+329;Canina;Nicolas;Teckel;Macho;5;Hernia Discal;220.0;0.0;0.0;Hombre
+330;Canina;Vera;Golden Retriever;Hembra;14;Displasia Cadera;970.0;0.0;0.0;Hombre
+331;Canina;Gala;Golden Retriever;Hembra;5;Ligamento Cruzado;70.0;0.0;0.0;Mujer
+332;Canina;Yoda;Mestizo;Macho;12;Artrosis;40.0;0.0;0.0;Mujer
+333;Canina;Logan;American Staffordshire Terrier;Macho;7;Hernia Discal;370.0;0.0;0.0;Mujer
+334;Canina;Lea;West Highland Terrier;Hembra;12;Acondicionamiento;70.0;0.0;0.0;Mujer
+335;Canina;Niki;Ratonero;Hembra;13;Artrosis;130.0;2.0;0.0;Hombre
+336;Canina;Greta;Teckel;Hembra;5;Hernia Discal;70.0;3.0;0.0;Hombre
+337;Canina;Lola;Golden Retriever;Hembra;6;Acondicionamiento;70.0;0.0;0.0;Mujer
+338;Canina;Ares;Border Collie;Macho;3;Acondicionamiento;70.0;0.0;0.0;Hombre
+339;Canina;Mona;Border Collie;Hembra;9;Acondicionamiento;40.0;0.0;0.0;Mujer
+340;Canina;Hanna;American Bully;Hembra;12;Artrosis;70.0;0.0;0.0;Mujer
+341;Canina;Choco;Pinscher;Macho;15;Hernia Discal;370.0;58.45;0.0;Mujer
+342;Canina;Zeke;Shihtzu;Macho;8;Hernia Discal;340.0;0.0;0.0;Mujer
+343;Canina;Wick;Teckel;Macho;6;Hernia Discal;220.0;0.0;0.0;Hombre
+344;Canina;Charlie;Mestizo;Macho;13;Acondicionamiento;160.0;0.0;0.0;Mujer
+345;Canina;Kurama;Mestizo;Macho;4;Artrosis;320.0;0.0;0.0;Hombre
+346;Canina;Dumle;Bulldog Francés;Macho;8;Hernia Discal;45.0;0.0;0.0;Hombre
+347;Canina;Boira;Mestizo;Hembra;4;Hernia Discal;295.0;17.45;0.0;Mujer
+348;Canina;Coquito;Chihuahua;Macho;6;Acondicionamiento;210.0;0.0;0.0;Mujer
+349;Canina;Akira;Mestizo;Hembra;9;Acondicionamiento;70.0;0.0;0.0;Hombre
+350;Canina;Meraki;Mestizo;Hembra;4;Acondicionamiento;70.0;0.0;0.0;Mujer
+351;Canina;Nymeria;Mestizo;Hembra;11;Hernia Discal;295.0;0.0;0.0;Mujer
+352;Canina;Kira;Pastor Alemán;Hembra;11;Artrosis;370.0;0.0;0.0;Mujer
+353;Canina;Siena;Mestizo;Hembra;11;Ligamento Cruzado;155.0;0.0;0.0;Mujer
+354;Canina;Fideo;Lebrel Italiano;Macho;1;NAC;295.0;2.0;0.0;Hombre
+355;Canina;Max;Border Collie;Macho;5;Acondicionamiento;70.0;7.3;0.0;Mujer
+356;Canina;Coco;Mestizo;Macho;15;Hernia Discal;370.0;0.0;0.0;Hombre
+357;Canina;Cies;Border Collie;Hembra;4;Acondicionamiento;70.0;0.0;0.0;Mujer
+358;Canina;Bimbo;Mestizo;Macho;15;Artrosis;295.0;0.0;0.0;Mujer
+359;Canina;Little;Shetland Sheepdog;Macho;6;Ligamento Cruzado;270.0;0.0;0.0;Mujer
+360;Canina;Chula;Pastor Alemán;Hembra;10;Artrosis;670.0;0.0;0.0;Hombre
+361;Canina;Ares;Mestizo;Macho;8;Artrosis;385.0;0.0;0.0;Mujer
+362;Canina;Bimba;Carlino;Hembra;13;Artrosis;295.0;0.0;0.0;Mujer
+363;Canina;Daisy;Bichón;Hembra;5;Artrosis;200.0;0.0;0.0;Hombre
+364;Canina;Doggy;Bichón;Macho;5;Hernia Discal;225.0;2.0;0.0;Mujer
+365;Canina;Rosi;Mestizo;Hembra;13;Ligamento Cruzado;70.0;2.0;0.0;Mujer
+366;Canina;Jonas;Mestizo;Macho;9;Displasia Cadera;350.0;0.0;0.0;Mujer
+367;Canina;Hugo;Galgo;Macho;10;Mielopatia;415.0;0.0;0.0;Hombre
+368;Canina;Morgan ;Mestizo;Macho;3;Mielopatia;240.0;0.0;0.0;Mujer
+369;Canina;Bilbo;Perro de agua;Macho;7;Displasia Cadera;670.0;4.0;0.0;Mujer
+370;Canina;Kira;Border Collie;Hembra;2;Displasia Cadera;355.0;0.0;0.0;Hombre
+371;Canina;Mia;Teckel;Hembra;4;Hernia Discal;295.0;0.0;0.0;Mujer
+372;Canina;Homer;Galgo;Macho;10;Ligamento Cruzado;70.0;0.0;0.0;Hombre
+373;Canina;Clark;Mestizo;Macho;14;Hernia Discal;670.0;0.0;0.0;Hombre
+374;Canina;Loa;Labrador Retriever;Hembra;13;Artrosis;295.0;0.0;0.0;Mujer
+375;Canina;Foxy;Yorkshire Terrier;Hembra;4;Hernia Discal;130.0;0.0;0.0;Hombre
+376;Canina;Lola;Golden Retriever;Hembra;10;Ligamento Cruzado;520.0;78.8;0.0;Hombre
+377;Canina;Atenea;Teckel;Hembra;4;Hernia Discal;595.0;0.0;0.0;Mujer
+378;Canina;Yuza;Cocker Spaniel;Macho;15;Artrosis;105.0;0.0;0.0;Mujer
+379;Canina;Fresa;Golden Retriever;Hembra;5;Ligamento Cruzado;370.0;0.0;0.0;Mujer
+380;Canina;Golfo;Pastor Catalán;Macho;7;Hernia Discal;70.0;0.0;0.0;Mujer
+381;Canina;Megan;Cocker Spaniel;Hembra;7;Acondicionamiento;40.0;8.0;0.0;Mujer
+382;Canina;Nabi;Mestizo;Hembra;8;Acondicionamiento;70.0;0.0;0.0;Mujer
+383;Canina;Roque;Mestizo;Macho;12;Hernia Discal;340.0;17.45;0.0;Mujer
+384;Canina;Paco;Mestizo;Macho;10;Hernia Discal;70.0;0.0;0.0;Mujer
+385;Canina;Flor;Teckel;Hembra;4;Hernia Discal;295.0;0.0;0.0;Mujer
+386;Canina;Dana;Pastor Alemán;Hembra;9;Artrosis;370.0;0.0;0.0;Mujer
+387;Canina;Max;Labrador Retriever;Macho;3;Displasia Cadera;370.0;0.0;0.0;Hombre
+388;Canina;Tuco;Mestizo;Macho;9;Mielopatia;80.0;0.0;0.0;Hombre
+389;Canina;Arwen;Golden Retriever;Hembra;1;Displasia Cadera;70.0;0.0;0.0;Mujer
+390;Canina;Nela;Mestizo;Hembra;7;Mielopatia;370.0;0.0;0.0;Mujer
+391;Canina;Mami;Mestizo;Hembra;10;Hernia Discal;15.0;0.0;0.0;Mujer
+392;Felina;Chuli;Común Europeo;Hembra;16;Artrosis;285.0;0.0;0.0;Mujer
+393;Canina;Oliver;Podenco;Macho;18;Artrosis;195.0;0.0;0.0;Mujer
+394;Canina;Saoirse;Setter Gordon;Hembra;1;Acondicionamiento;70.0;0.0;0.0;Hombre
+395;Canina;Charlie;Bulldog Francés;Macho;9;Hernia Discal;295.0;0.0;0.0;Hombre
+396;Canina;Geremias;Mestizo;Macho;12;Artrosis;70.0;0.0;0.0;Mujer
+397;Canina;Hugo;Bichón;Macho;12;Artrosis;40.0;0.0;0.0;Mujer
+398;Canina;Bonny;Boxer;Hembra;13;Displasia Cadera;70.0;0.0;0.0;Mujer
+399;Canina;Kovu;Caniche;Macho;1;Acondicionamiento;70.0;0.0;0.0;Mujer
+400;Canina;Mel;Cocker Spaniel;Macho;3;Hernia Discal;70.0;0.0;0.0;Mujer
+401;Canina;Nora;Perro de agua;Hembra;8;Displasia Cadera;370.0;78.8;0.0;Mujer
+402;Canina;Leone;Teckel;Macho;5;Hernia Discal;70.0;0.0;0.0;Mujer
+403;Canina;Scott;Mestizo;Macho;14;Artrosis;370.0;0.0;0.0;Mujer
+404;Canina;Odi;Pastor Australiano;Macho;1;Mielopatia;370.0;40.0;0.0;Mujer
+405;Canina;Draco;Mestizo;Macho;8;Ligamento Cruzado;295.0;0.0;0.0;Mujer
+406;Canina;Yaki;Border Collie;Macho;4;Acondicionamiento;70.0;0.0;0.0;Mujer
+407;Canina;Suki;Akita Americano;Hembra;1;Ligamento Cruzado;70.0;0.0;0.0;Mujer
+408;Canina;Hachiko;Labrador Retriever;Macho;10;Acondicionamiento;70.0;0.0;0.0;Mujer
+409;Canina;Berta;Teckel;Hembra;3;Hernia Discal;295.0;4.0;0.0;Mujer
+410;Canina;Blue;Mestizo;Macho;10;Artrosis;295.0;0.0;0.0;Mujer
+411;Canina;León;Teckel;Macho;3;Hernia Discal;370.0;14.95;0.0;Mujer
+412;Canina;Noa;Mestizo;Hembra;15;Artrosis;70.0;0.0;0.0;Hombre
+413;Canina;Raiko;Pastor Alemán;Macho;9;Mielopatia;520.0;0.0;0.0;Hombre
+414;Canina;Luffy;Mestizo;Macho;3;Acondicionamiento;70.0;0.0;0.0;Hombre
+415;Canina;Tenis;Mestizo;Macho;5;Displasia Cadera;70.0;0.0;0.0;Hombre
+416;Canina;Sally;Galgo;Hembra;1;Acondicionamiento;70.0;0.0;0.0;Mujer
+417;Canina;Rufus;Golden Retriever;Macho;2;Displasia Cadera;70.0;0.0;0.0;Mujer
+418;Canina;Golfo;Teckel;Macho;4;Acondicionamiento;70.0;0.0;0.0;Mujer
+419;Canina;Nola;Pastor Alemán;Hembra;9;Displasia Cadera;70.0;2.0;0.0;Mujer
+420;Canina;Hurco;Pastor Alemán;Macho;10;Displasia Codo;70.0;0.0;0.0;Hombre
